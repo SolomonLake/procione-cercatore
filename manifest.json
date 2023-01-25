@@ -1,0 +1,12 @@
+{
+  "name": "Procione Cercatore",
+  "description": "Let's find some raccoons!",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "128": "images/procione-cute-128.png"
+  }
+}
